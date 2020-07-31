@@ -2,6 +2,6 @@
 
 I'm Guy, full stack developer who occasionally dabbles in UI/UX.
 
-Working at Microsoft on Azure Data Security solutions.
+Working at Microsoft on Azure data security solutions.
 
-I love web technologies and Rust.
+My primary interests are web technologies and Rust.
