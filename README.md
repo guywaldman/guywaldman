@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm Guy, full stack developer who occasionally dabbles in UI/UX.
+I'm Guy, full stack developer with a side passion for UI/UX.
+Primarily into web technologies, cloud, security and Rust.
 
-Working at Microsoft on Azure data security solutions.
+Currently working at Microsoft Azure, building cloud security solutions.
 
-My primary interests are web technologies and Rust.
+My website: https://guywaldman.dev
