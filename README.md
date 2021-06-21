@@ -5,4 +5,4 @@ Primarily into web technologies, cloud, security and Rust.
 
 Currently working at Microsoft Azure, building cloud security solutions.
 
-My website: https://guywaldman.dev
+My personal website and blog: https://guywaldman.dev
