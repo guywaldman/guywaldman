@@ -1,4 +1,4 @@
-ulti-disciplinary full stack software engineer and engineering manager passionate about all things code, design, product and UI/UX.
+Multi-disciplinary full stack software engineer and engineering manager passionate about all things code, design, product and UI/UX.
 
 Working at Microsoft for the past 6 years, on a wide range of products.
 I have worked on large-scale security products at Defender for Cloud, innovations in security and AI in the security CTO office, and now leading a team in a highly innovative security product.
