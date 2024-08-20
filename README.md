@@ -3,6 +3,6 @@ I have experience with a variety of technologies and stacks, and a background in
 
 Focused on solving problems and delivering value over choice/expertise of specific technologies.
 
-My main interests are cloud, developer tooling, web/mobile development, security and DevOps.
+My main interests are cloud, cloud security, developer tooling, UI/UX, web/mobile development and DevOps.
 
 For my personal website and blog: https://guywaldman.com
